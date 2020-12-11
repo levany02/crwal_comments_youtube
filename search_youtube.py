@@ -7,7 +7,7 @@
 import requests
 import json
 scopes = ["https://www.googleapis.com/auth/youtube.force-ssl"]
-api_key = ["AIzaSyBuY8Vw4EnOhsZnHTnvTxEELTqyQ2nfbos"]
+api_key = ["************************************************"]
 
 
 def get_video_id_by_query(q, limit=50):
